@@ -1,0 +1,7 @@
+com\mycompany\state\ui\UI.class
+com\mycompany\padraostate\PlayingState.class
+com\mycompany\state\ui\Player.class
+com\mycompany\padraostate\PadraoState.class
+com\mycompany\padraostate\LockedState.class
+com\mycompany\padraostate\State.class
+com\mycompany\padraostate\ReadyState.class
